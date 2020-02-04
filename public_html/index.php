@@ -31,7 +31,7 @@
                 <div class="menu-dropdown">                               
                   <ul class="nav-menu">
                     <li><a href="/about.html">About</a></li>
-                    <li><a href="/shop.php">Shop</a></li>
+                    <li><a href="/shop.php">Shoppy</a></li>
                     <li><a href="/menu.html">Menu</a></li>
                     <li><a href="/brew.html">Brew</a></li>
                   </ul>
